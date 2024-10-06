@@ -5,7 +5,7 @@ using Scalar.AspNetCore;
 
 // POST /settings  1.1
 // Content-Type: application/json
-// Host: localhost:10000
+// Host: localhost:5029
 // Content-Length: 138
 //
 // {
