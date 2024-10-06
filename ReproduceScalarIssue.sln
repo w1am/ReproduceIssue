@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproduceScalarIssue", "ReproduceScalarIssue\ReproduceScalarIssue.csproj", "{58F398B9-46AA-47D3-B2A9-DC61F3E56AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F398B9-46AA-47D3-B2A9-DC61F3E56AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F398B9-46AA-47D3-B2A9-DC61F3E56AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F398B9-46AA-47D3-B2A9-DC61F3E56AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F398B9-46AA-47D3-B2A9-DC61F3E56AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
