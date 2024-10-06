@@ -3,7 +3,7 @@ using Microsoft.OpenApi.Any;
 using Microsoft.OpenApi.Models;
 using Scalar.AspNetCore;
 
-// POST /reconfigure 1.1
+// POST /settings  1.1
 // Content-Type: application/json
 // Host: localhost:10000
 // Content-Length: 138
